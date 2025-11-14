@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-9S1SOHeM4gwD+NKVGUshZJ0QRGtrji5BpI3QCDIUVqw=",
+    "strip_prefix": "bazel_platforms-1.0.0",
+    "url": "https://github.com/build-athena/bazel_platforms/archive/refs/tags/v1.0.0.tar.gz"
+}

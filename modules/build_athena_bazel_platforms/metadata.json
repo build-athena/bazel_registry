@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/build-athena/bazel_platforms",
+    "maintainers": [
+        {
+            "name": "Nikola Radakovic",
+            "email": "radaknikolans@gmail.com",
+            "github": "nradakovic",
+            "github_user_id": 35235060
+        }
+    ],
+    "repository": [
+        "github:build-athena/bazel_platforms"
+    ],
+    "versions": [
+        "1.0.0"
+    ],
+    "yanked_versions": {}
+}
